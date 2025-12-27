@@ -645,7 +645,8 @@ with col_upload:
                         )
                         labels.append(label)
                         progress.progress((idx + 1) / len(data_list))
-                        grids = group_labels(labels, grid_rows, grid_cols, grid_spacing)
+                    
+                    grids = group_labels(labels, grid_rows, grid_cols, grid_spacing)
                     
                     progress.empty()  # Clear progress bar
                     #st.success(f"✅ {len(grids)} grids created")
