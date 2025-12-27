@@ -93,7 +93,7 @@ Las donaciones van directamente a una **[organización de reforestación](https:
 
 ## ⋆˙⟡ Licencia
 
-Este proyecto está licenciado bajo la **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+Este proyecto está protegido bajo la **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
 Puedes usar, modificar y distribuir este software; sin embargo, si lo distributes o ejecutas como un servicio a través de la red, el código fuente de tu versión modificada también debe estar disponible para todos bajo la misma licencia.
 
