@@ -177,7 +177,6 @@ Then open the URL shown in your terminal (usually `http://localhost:8501`).
 
 <br>
 
-
 ## ☕🌱 Support
 
 If you find this project useful, instead of buying us a coffee, consider [planting a tree](https://beacons.ai/mariameraz) to support global reforestation.  
