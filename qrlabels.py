@@ -457,7 +457,7 @@ with st.expander("**✨👇 Generate Custom Labels with QR Codes**", expanded=Tr
 
 st.markdown("---")
 with st.sidebar:
-    # Buy me a tree button (mantener como está)
+    # Buy the planet a tree button (mantener como está)
     st.markdown("""
     <style>
     .tree-button {
@@ -491,7 +491,7 @@ with st.sidebar:
     }
     </style>
     <a href="https://beacons.ai/mariameraz" target="_blank" class="tree-button">
-        <span class="tree-emoji">🌳</span>Buy Us a Tree
+        <span class="tree-emoji">🌳</span>Buy the Planet a Tree
     </a>
     """, unsafe_allow_html=True)
     
