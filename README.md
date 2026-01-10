@@ -5,6 +5,8 @@
 
 Create personalized labels with custom text and unique QR codes by uploading a CSV, TXT, or TSV file. The app processes your file and generates a printable PDF with all your labels.
 
+- This document is also available in Spanish: [Spanish README](README_ES.md)
+
 <br>
 
 ## 🌐 Live Demo
