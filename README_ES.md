@@ -87,7 +87,8 @@ Luego abre la URL que aparece en la terminal (generalmente `http://localhost:850
 ## ☕🌱 Apoyo
 
 Si este proyecto te resulta útil, en lugar de invitarnos un café, considera **[plantar un árbol](https://beacons.ai/mariameraz)** para apoyar a la reforestación global.
-Las donaciones van directamente a una **[organización de reforestación](https://beacons.ai/mariameraz)**.
+
+Las donaciones son procesadas por organizaciones sin fines de lucro independientes, las cuales no están afiliadas a este proyecto ni a sus autores. Esta sugerencia surge de nuestro interés en apoyar la conservación ambiental y su sostenibilidad a largo plazo.
 
 <br>
 
@@ -95,7 +96,7 @@ Las donaciones van directamente a una **[organización de reforestación](https:
 
 Este proyecto está protegido bajo la **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-Puedes usar, modificar y distribuir este software; sin embargo, si lo distributes o ejecutas como un servicio a través de la red, el código fuente de tu versión modificada también debe estar disponible para todos bajo la misma licencia.
+Puedes usar, modificar y distribuir este software. Si se comparte externamente o se pone a disposición de terceros, incluso mediante un servicio en red, el código fuente de cualquier versión modificada debe estar disponible bajo la misma licencia, con el fin de apoyar la ciencia abierta y el acceso amplio a la investigación.
 
 Consulta el archivo `LICENSE` para más detalles.
 
