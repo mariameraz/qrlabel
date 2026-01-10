@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![Open in Streamlit](https://img.shields.io/badge/Open%20App-Streamlit-green)](https://qrlabel.streamlit.app)
 
+Available in: [![English](https://img.shields.io/badge/Language-English-pink)](README.md)
+
 Crea etiquetas personalizadas con códigos QR únicos cargando un archivo CSV, TXT o TSV.
 La aplicación procesa tu archivo y genera un PDF imprimible con todas tus etiquetas.
 
