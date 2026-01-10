@@ -99,4 +99,4 @@ Donations are processed by independent nonprofit organizations and **are not aff
 
 This project is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
 
-You may use, modify, and distribute this software, but if you distribute it or run it as a service over a network, the source code of your modified version must also be made available under the same license.
+You may use, modify, and distribute this software. If you distribute it externally or provide access to it to third parties, including through a networked service, the source code of any modified version must be made available under the same license, in order to support open science and broad access to research.
