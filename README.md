@@ -3,9 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![Open in Streamlit](https://img.shields.io/badge/Open%20App-Streamlit-green)](https://qrlabel.streamlit.app)
 
-Create personalized labels with custom text and unique QR codes by uploading a CSV, TXT, or TSV file. The app processes your file and generates a printable PDF with all your labels.
+Available in: [![Spanish](https://img.shields.io/badge/Language-Español-red)](README_ES.md)
 
-- This document is also available in Spanish: [Spanish README](README_ES.md)
+Create personalized labels with custom text and unique QR codes by uploading a CSV, TXT, or TSV file. The app processes your file and generates a printable PDF with all your labels.
 
 <br>
 
