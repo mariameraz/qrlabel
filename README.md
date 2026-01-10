@@ -13,6 +13,10 @@ Try our free app online:
 
 👉 **[https://qrlabel.streamlit.app](https://qrlabel.streamlit.app)**
 
+
+> **Note:** After a period of inactivity, Streamlit may put the app to sleep. If this happens, simply click **“Wake up app”** and wait a few seconds for it to restart.
+
+
 <br>
 
 
@@ -87,7 +91,9 @@ Then open the URL shown in your terminal (usually `http://localhost:8501`).
 
 If you find this project useful, instead of buying us a coffee, consider [planting a tree](https://beacons.ai/mariameraz) to support global reforestation.  
 
-Donations are processed by independent nonprofit organizations and are not affiliated with this project or its authors. This suggestion reflects our interest in supporting environmental conservation and long-term sustainability.
+Donations are processed by independent nonprofit organizations and **are not affiliated with this project or its authors**. This suggestion reflects our interest in supporting environmental conservation and long-term sustainability.
+
+<br>
 
 ## ⋆˙⟡ License
 
