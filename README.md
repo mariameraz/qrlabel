@@ -38,7 +38,7 @@ The same value is used for both the **label text** and the **QR code content**.
 * **Column 1:** Label text
 * **Columns 2+ :** Combined together (separated by line breaks) and encoded into the QR code.
 
-👉 **Example input files and sample generated labels can be found in the `examples/` folder.**
+👉 **Example input files and sample generated labels can be found in the `examples/` [folder](examples/).**
 
 <br>
 
