@@ -17,7 +17,7 @@ Prueba la app gratis:
 
 👉 **[https://qrlabel.streamlit.app](https://qrlabel.streamlit.app)**
 
-Nota: Despues de un periodo de inactividad, Streamlit puede poner la app a 'dormir'. Si esto sucede, simplemente da click en “Wake up app” y espera unos segundos para restaurar la página.
+> Nota: Despues de un periodo de inactividad, Streamlit puede poner la app a 'dormir'. Si esto sucede, simplemente da click en “Wake up app” y espera unos segundos para restaurar la página.
 
 <br>
 
