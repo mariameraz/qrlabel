@@ -730,7 +730,7 @@ footer_html = """
             LinkedIn
         </a>
         •
-        <a href='mailto:ale.meraz@outlook.com' style='color:#888;text-decoration:none;margin:0 30px;'>
+        <a href='mailto:ma.meraz@proton.me' style='color:#888;text-decoration:none;margin:0 30px;'>
             <img src='https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg' width='30' style='vertical-align:middle;margin-right:5px;'> 
             Contact
         </a>
